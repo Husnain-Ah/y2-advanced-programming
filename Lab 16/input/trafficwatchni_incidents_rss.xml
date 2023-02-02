@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel> 
+		<title>Trafficwatch NI Incidents</title> 
+		<link>http://www.trafficwatchni.com/</link> 
+		<description>A listing of incidents in Northern Ireland.</description> 
+		<language>en-gb</language> 
+		<pubDate>Tue, 05 Oct 2021 15:53:00 +0000</pubDate> 
+		<atom:link href="http://rss.trafficwatchni.com/trafficwatchni_incidents_rss.xml" rel="self" type="application/rss+xml"/>
+		<item> 
+			<title>Belfast: Signals OFF Ormeau Rd / Cromac St / Ormeau Av, , Ormeau Avenue, Belfast</title>
+			<description><![CDATA[
+				In Belfast: the traffic Signals Ormeau Road at the junction with Cromac Street and Ormeau Avenue are currently all OUT
+Road users are asked to approach this junction with extra care and be prepared to STOP/Give Way until we can get this issue fixed.
+
+			]]></description>
+			<pubDate>Tue, 05 Oct 2021 08:13:32 +0000</pubDate>
+			<guid isPermaLink="false">TWNIIncident1971831</guid>
+		</item>
+		<item>
+			<title>Derry / Londonderry: Foyle Bridge re-opened, A515, Madam's Bank Road, Londonderry</title>
+			<description><![CDATA[
+				In Derry / Londonderry: Foyle Bridge is closed between Caw Roundabout and Culmore Road Roundabout for emergency road works.
+			]]></description>
+			<pubDate>Wed, 06 Oct 2021 10:40:36 +0000</pubDate>
+			<guid isPermaLink="false">TWNIIncident1971950</guid>
+		</item>
+		<item> 
+			<title>RTC Upper Springfield Rd, , , Belfast</title>
+			<description><![CDATA[
+				.
+			]]></description>
+			<pubDate>Wed, 06 Oct 2021 15:42:55 +0000</pubDate>
+			<guid isPermaLink="false">TWNIIncident1971993</guid>
+		</item>
+		<item> 
+			<title>Belfast - College Green Closed, , College Green, Belfast</title>
+			<description><![CDATA[
+				.
+			]]></description>
+			<pubDate>Thu, 07 Oct 2021 13:38:58 +0000</pubDate>
+			<guid isPermaLink="false">TWNIIncident1972125</guid>
+		</item>
+		<item> 
+			<title>Ballymena: Cullybackey Road is CLOSED, , Cullybackey Road , Ballymena</title>
+			<description><![CDATA[
+				In Ballymena: Road usersare advised that the Cullybackey Road is CLOSED in both directions following a road traffic collision. 
+Diversions are in place at the junction with Woodstown Road and the junction with Inishowen Park, please seek alternate routes for your journey.
+
+			]]></description>
+			<pubDate>Thu, 07 Oct 2021 10:35:14 +0000</pubDate>
+			<guid isPermaLink="false">TWNIIncident1972101</guid>
+		</item>		
+	</channel> 
+</rss>
